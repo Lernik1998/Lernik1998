@@ -1,10 +1,13 @@
-<div align="center">
+<div align="left">
   <h1>👋 Hi, I’m @Lernik1998</h1>
   <p>👀 I'm interested in continuing to advance and improve my skills.</p>
   <p>🌱 I'm currently in the final year of the advanced cycle of Web Application Development.</p>
   <p>🚀 I am currently looking for a company dedicated to software development to carry out FCT practices.</p>
   <p>📫 Contact me: <a href="mailto:lernik10@gmail.com">lernik10@gmail.com</a></p>
   <p>📂 Check out my portfolio: <a href="https://portfolio-react-theta-sandy.vercel.app/" target="_blank">https://portfolio-react-theta-sandy.vercel.app/</a></p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Lernik1998&color=blue&style=flat-square" alt="Profile Views" />
+  </p>
 </div>
 
 ---
