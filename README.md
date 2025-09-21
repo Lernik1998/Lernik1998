@@ -3,7 +3,6 @@
   <p>👀 I'm interested in continuing to advance and improve my skills.</p>
   <p>🎓 I have completed the Advanced Web Application Development Cycle.</p>
   <p>🔐 I’m currently training in cybersecurity to broaden my technical skills.</p>
-  <p>🚀 I am currently looking for a job in a software development company.</p>
   <p>📫 Contact me: <a href="mailto:lernik10@gmail.com">lernik10@gmail.com</a></p>
   <p>📂 Check out my portfolio: <a href="https://portfolio-react-theta-sandy.vercel.app/" target="_blank">https://portfolio-react-theta-sandy.vercel.app/</a></p>
   <p>
@@ -26,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50" alt="jQuery" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="50" alt="Symfony" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="50" alt="JSON" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="50" alt="Apache" />
@@ -39,8 +38,8 @@
 
   <h4>🇪🇸 Spanish High/Native level</h4>
   <h4>🇪🇸 Valencian High/Native level</h4>
-  <h4>🇬🇧 English High level</h4>
   <h4>🇦🇲 Armenian Native</h4>
+  <h4>🇬🇧 English High level</h4>
   <h4>🇷🇺 Russian Intermediate/Conversational</h4>
 
 </div>
